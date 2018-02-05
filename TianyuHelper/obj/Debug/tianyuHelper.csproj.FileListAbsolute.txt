@@ -1,0 +1,44 @@
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.exe.config
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.exe
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.pdb
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.Assembly.dll
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.PowerShell.dll
+D:\.net project\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.Assembly.xml
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\Interop.AutoItX3Lib.dll
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csproj.ResolveComReference.cache
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.FormHelper.resources
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.FormTaskManager.resources
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.Properties.Resources.resources
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csproj.GenerateResource.Cache
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.exe
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.pdb
+D:\.net project\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csprojResolveAssemblyReference.cache
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.exe.config
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\Interop.AutoItX3Lib.dll
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csproj.ResolveComReference.cache
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.exe
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.pdb
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.exe
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\tianyuHelper.pdb
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.Assembly.dll
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.PowerShell.dll
+D:\Development\tianyuHelper\tianyuHelper\bin\Debug\AutoItX3.Assembly.xml
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csprojResolveAssemblyReference.cache
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.FormHelper.resources
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.FormTaskManager.resources
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.Properties.Resources.resources
+D:\Development\tianyuHelper\tianyuHelper\obj\Debug\tianyuHelper.csproj.GenerateResource.Cache
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\TianyuHelper.FormHelper.resources
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\TianyuHelper.FormTaskManager.resources
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\TianyuHelper.Properties.Resources.resources
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\TianyuHelper.csproj.GenerateResource.Cache
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\TianyuHelper.csproj.CoreCompileInputs.cache
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\tianyuHelper.exe
+E:\Development\TianyuHelper\TianyuHelper\obj\Debug\tianyuHelper.pdb
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\AutoItX3.dll
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\AutoItX3_x64.dll
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\tianyuHelper.exe.config
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\tianyuHelper.exe
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\tianyuHelper.pdb
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\AutoItX3.Assembly.dll
+E:\Development\TianyuHelper\TianyuHelper\bin\Debug\AutoItX3.Assembly.xml

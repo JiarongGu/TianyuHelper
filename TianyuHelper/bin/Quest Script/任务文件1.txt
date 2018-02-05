@@ -1,0 +1,264 @@
+   //if (DateTime.Now > DateTime.Parse("19:50:00")) n = 16;
+                keyHandler.KeyPress("f");
+                keyHandler.Sleep(500);
+                keyHandler.MouseMove(-100, 100);
+                keyHandler.Sleep(500);
+                keyHandler.MouseClick();
+                keyHandler.Sleep(500);
+                keyHandler.MouseMove(80, 220);
+                keyHandler.Sleep(500);
+                keyHandler.MouseClick();
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPress("ESC");
+                keyHandler.Sleep(500);
+                keyHandler.KeyPress("NUMPADDOT");
+                keyHandler.Sleep(3500);
+
+                routeHandler.initializeRoute(4818, 1559, 100);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearHeight())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+
+                }
+
+                routeHandler.initializeRoute(4860, 1580, 80, 15);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4920, 1610, 80, 12);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4914, 1632, 73, 15);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4909, 1660, 63, 14);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4907, 1700, 53, 11);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4902, 1734, 23, 15);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4894.167, 1805.798, 10, 5);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4900, 1804, -116.6587, 0.2);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startDropDown())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+                int j = 0;
+                while (j < 11)
+                {
+                    routeHandler.initializeRoute(4896, 1799, -117, 1.2);
+                    for (int i = 0; i < 199; i++)
+                    {
+                        if (j > 10)
+                        {
+                            break;
+                        }
+                        if (routeHandler.startLinearRoute())
+                        {
+                            i = 200;
+                            Console.WriteLine("Route Completed");
+                            Console.WriteLine("Get Start: " + j);
+                            keyHandler.KeyPressDelay("f");
+                            keyHandler.Sleep(5000);
+                            j++;
+                            Console.WriteLine("Get Completed");
+
+                        }
+                    }
+                    routeHandler.initializeRoute(4900.022, 1802.909, -116.6695, 1.2);
+                    for (int i = 0; i < 199; i++)
+                    {
+                        if (j > 10)
+                        {
+                            break;
+                        }
+                        if (routeHandler.startLinearRoute())
+                        {
+                            i = 200;
+                            Console.WriteLine("Route Completed");
+                            Console.WriteLine("Get Start: " + j);
+                            keyHandler.KeyPressDelay("f");
+                            keyHandler.Sleep(5000);
+                            j++;
+                            Console.WriteLine("Get Completed");
+
+                        }
+                    }
+                    routeHandler.initializeRoute(4896.284, 1801.385, -116.6699, 1.2);
+                    for (int i = 0; i < 199; i++)
+                    {
+                        if (j > 10)
+                        {
+                            break;
+                        }
+                        if (routeHandler.startLinearRoute())
+                        {
+                            i = 200;
+                            Console.WriteLine("Route Completed");
+                            Console.WriteLine("Get Start: " + j);
+                            keyHandler.KeyPressDelay("f");
+                            keyHandler.Sleep(5000);
+                            j++;
+                            Console.WriteLine("Get Completed");
+
+                        }
+                    }
+                    routeHandler.initializeRoute(4903.764, 1808.816, -116.2219, 1.2);
+                    for (int i = 0; i < 199; i++)
+                    {
+                        if (j > 10)
+                        {
+                            break;
+                        }
+                        if (routeHandler.startLinearRoute())
+                        {
+                            i = 200;
+                            Console.WriteLine("Route Completed");
+                            Console.WriteLine("Get Start: " + j);
+                            keyHandler.KeyPressDelay("f");
+                            keyHandler.Sleep(5000);
+                            j++;
+                            Console.WriteLine("Get Completed");
+
+                        }
+                    }
+                }
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPressDelay("ESC");
+                keyHandler.Sleep(1500);
+                keyHandler.MouseMove(-140, 70);
+                keyHandler.Sleep(500);
+                keyHandler.MouseClick();
+                keyHandler.Sleep(3000);
+
+                routeHandler.initializeRoute(4773.392, 1413.023, 12.88435, 8);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPressDelay("NUMPADDOT");
+                keyHandler.Sleep(3000);
+
+                routeHandler.initializeRoute(4773.392, 1413.023, 70);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearHeight())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+
+                }
+
+                routeHandler.initializeRoute(4826.255, 1588.26, 19.9030, 5);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4826.255, 1588.26, 19.90302);
+                for (int i = 0; i < 20; i++)
+                {
+                    if (routeHandler.startDropDown())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+
+                routeHandler.initializeRoute(4834.183, 1588.96, 19.54204, 2);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute())
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPressDelay("F");
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPressDelay("F");
+                keyHandler.Sleep(1500);
+                keyHandler.KeyPressDelay("SPACE");
+                keyHandler.Sleep(1500);
+
+                routeHandler.initializeRoute(4817.851, 1558.938, 16.99467, 1.5);
+                for (int i = 0; i < 199; i++)
+                {
+                    if (routeHandler.startLinearRoute(true))
+                    {
+                        i = 200;
+                        Console.WriteLine("Route Completed");
+                    }
+                }

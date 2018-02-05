@@ -1,0 +1,9 @@
+starttime# <01:05> [False]
+endtime# <01:50> [False]
+runtime# <00:45>
+listdelay# <01:15>
+looptimes# <0>
+
+liststart#
+
+listend#
